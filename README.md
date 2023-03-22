@@ -1,7 +1,7 @@
 ### HugOSC
 HugOSC is a lightweight OSC (Open Sound Control) controller application built with Python and Tkinter. It allows users to create custom keybindings to send OSC messages to a remote server, enabling control of various OSC-compatible applications and devices.
 
-###Features
+### Features
 Create and edit custom keybindings
 Manage multiple OSC servers with custom names, IP addresses, and ports
 Automatically save and load keybindings and server configurations
